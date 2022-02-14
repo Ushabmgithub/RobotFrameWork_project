@@ -1,5 +1,5 @@
 *** Settings ***
-Documentation   This file handles all the menu for openemr application
+Documentation   This file handles all the menu for saucedemo application
 
 Resource    ../base/common_functionality.resource
 
